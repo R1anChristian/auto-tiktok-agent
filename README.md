@@ -1,1 +1,1 @@
-# auto-tiktok-agent
+# tiktok-agent-ico
